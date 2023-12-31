@@ -1,4 +1,9 @@
-# DIO - Trilha .NET - Fundamentos
+# MODIFICAÇÕES FEITAS
+- Validações feitas para os parâmetros precoPorHora, precoInicial e horasEstacionado, disparando exceções se não forem positivos;
+- Completados os métodos AdicionarVeiculo, ListarVeiculos e RemoverVeiculo.;
+- Atualizada versão do .NET: 6.0 -> 8.0;
+
+# DESAFIO PROPOSTO
 www.dio.me
 
 ## Desafio de projeto
